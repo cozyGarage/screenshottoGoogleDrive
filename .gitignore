@@ -5,4 +5,6 @@ SavetoGD.js
 Screenshot.js
 node_modules
 test
+config.json
+app.js
 ```
